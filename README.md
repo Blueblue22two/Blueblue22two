@@ -1,15 +1,11 @@
 # 👋 Hi there, I'm **Blueblue22**!  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Blueblue22&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/Blueblue22?label=Follow%20Me&style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/Blueblue22?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 ---
 
 ## 🌟 About Me  
 🎓 **Education**:  
-- **Chengdu University of Technology**  
-- **Oxford Brookes University**  
+- **Chengdu University of Technology** and **Oxford Brookes University**  
 
 🌱 **Interests**:  
 - **Machine Vision**  
