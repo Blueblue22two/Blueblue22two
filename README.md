@@ -5,11 +5,11 @@
 
 ## 🌟 About Me  
 🎓 **Education**:  
-- **Chengdu University of Technology** and **Oxford Brookes University**  
+- **Bachelor: Chengdu University of Technology** and **Oxford Brookes University**
+- **Master: UNNC**
 
 🌱 **Interests**:  
-- **Machine Vision**  
-- **Recommendation Systems**  
+- **LLM**  
 - **C++ and Golang Development**  
 
 💻 **Tech Stack**:  
