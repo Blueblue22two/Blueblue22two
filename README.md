@@ -15,6 +15,6 @@
 💻 **Tech Stack**:  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?style=flat&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?style=flat&logo=huggingface&logoColor=white)
 ---
