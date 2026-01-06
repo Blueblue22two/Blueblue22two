@@ -9,12 +9,12 @@
 - **Master: UNNC**
 
 🌱 **Interests**:  
-- **LLM**  
-- **C++ and Golang Development**  
+- **LLM with RAG & Agent**  
+- **Python,Java and Golang Development**  
 
 💻 **Tech Stack**:  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD166?style=flat&logo=huggingface&logoColor=black)
 ---
