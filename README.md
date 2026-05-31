@@ -4,13 +4,8 @@
 ---
 
 ## 🌟 About Me  
-🎓 **Education**:  
-- **Bachelor: Chengdu University of Technology** and **Oxford Brookes University**
-- **Master: UNNC**
-
 🌱 **Interests**:  
-- **LLM with RAG & Agent**  
-- **Python,Java and Golang Development**  
+- **LLM, RAG & Agent**  
 
 💻 **Tech Stack**:  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)  
